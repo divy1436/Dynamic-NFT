@@ -1,19 +1,5 @@
 # 🖼️ Dynamic NFT Metadata  
 
-🚀 **Revolutionizing NFTs with Real-Time Metadata Updates!**  
-A smart contract that enables **NFTs to evolve over time** based on real-world events like block timestamps. Unlike static NFTs, these dynamic assets **change attributes automatically**, making them perfect for gaming, collectibles, and interactive experiences.  
-
----
-
-## 🔗 Smart Contract Address  
-```bash
-0x7ad833D0cee4d3796C2445D4a5AbEd5Dc1c6a663
-
-
-
-
-# 🖼️ Dynamic NFT Metadata  
-
 ## 📌 Project Description  
 Dynamic NFT Metadata is a smart contract implementation that enables NFTs to evolve over time based on real-time events, such as block timestamps. Unlike traditional static NFTs, these NFTs dynamically update their attributes without requiring user input, making them ideal for applications like gaming, collectibles, and time-sensitive digital assets.  
 
