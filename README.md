@@ -10,7 +10,7 @@ Dynamic NFT Metadata is a smart contract implementation that enables NFTs to evo
 
 
 ## 🚀 Key Features  
-- **Time-Based Metadata Evolution**: NFT attributes change over time based on predefined conditions.  
+- **Time-Based Metadata Evolution**: NFT attributes change over time based on predefined conditions 
 - **Minimal Solidity Implementation**: No external imports or constructors, ensuring efficiency and simplicity.  
 - **Decentralized and Autonomous**: Once minted, the NFT updates automatically without manual interaction.  
 
